@@ -1,0 +1,9 @@
+{
+  "name": "my-awesome-project",
+  "app_id": "",
+  "v2": true,
+  "typescript": true,
+  "watchPatterns": [
+    "!www/**/*"
+  ]
+}
